@@ -21,12 +21,12 @@
         <main.class>com.orgecc.tools.reversetunnel.http.ApplicationKt</main.class>
     </properties>
 
-    <repositories>
+    <!--repositories>
         <repository>
             <id>my-local-repo</id>
             <url>file://${basedir}/local-repo</url>
         </repository>
-    </repositories>
+    </repositories-->
 
     <dependencyManagement>
         <dependencies>
