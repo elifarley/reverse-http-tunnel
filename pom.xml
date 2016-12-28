@@ -18,7 +18,7 @@
 
     <properties>
         <kotlin.version>1.0.5-2</kotlin.version>
-        <main.class>com.orgecc.tools.httpqueue.ApplicationKt</main.class>
+        <main.class>com.orgecc.tools.reversetunnel.http.ApplicationKt</main.class>
     </properties>
 
     <repositories>
